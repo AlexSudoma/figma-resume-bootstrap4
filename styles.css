@@ -1,0 +1,41 @@
+@font-face {
+    font-family: FuzzyBubbles;
+    src: url(./fonts/FuzzyBubbles-Bold.ttf);
+}
+@font-face {
+    font-family: FuzzyBubbles-Regular;
+    src: url(./fonts/FuzzyBubbles-Regular.ttf);
+}
+html, body {
+    font-size: 16px;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.container {
+    width: 90%;
+    max-width: 70rem;
+    margin: 0 auto;
+    background: white;
+    padding: 1rem;
+}
+.get-started {
+    font-family: FuzzyBubbles;
+    font-size: .9rem;
+    
+}
+.profile {
+    font-size: 1.2rem;
+}
+.transform {
+    transform: rotate(-90deg);
+    font-family: FuzzyBubbles;
+    font-size: 1rem;
+}
+.profile h1 {
+    font-family: FuzzyBubbles;
+    font-size: 3rem;
+}
+.about-myself {
+    font-family: FuzzyBubbles-Regular;
+    font-size: 1.2rem;
+}
