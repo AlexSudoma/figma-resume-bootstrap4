@@ -14,9 +14,9 @@ html, body {
 .container {
     width: 90%;
     max-width: 70rem;
-    margin: 0 auto;
-    background: white;
-    padding: 1rem;
+    /* margin: 0 auto; */
+    /* background: white; */
+    /* padding: 1rem; */
 }
 .get-started {
     font-family: FuzzyBubbles;
